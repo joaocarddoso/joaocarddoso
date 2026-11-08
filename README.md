@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b2a,100:001f3f&height=260&section=header&text=Jo%C3%A3o%20Cardoso&fontSize=70&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados%20%7C%20Modelagem&descAlignY=60&descSize=22&descColor=7df9ff" width="100%" alt="João Cardoso"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b2a,100:001f3f&height=220&section=header&text=Jo%C3%A3o%20Cardoso&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Estat%C3%ADstica%20%7C%20Dados&descAlignY=60&descSize=20&descColor=7df9ff" width="100%" alt="João Cardoso"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=820&height=80&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+CARREGANDO+MODULOS:+Estat%C3%ADstica+%2B+Python;%3E+AREA:+Dados+e+modelagem;%3E+STATUS:+ONLINE" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Estat%C3%ADstico+em+forma%C3%A7%C3%A3o;Modelagem+%7C+An%C3%A1lise+de+dados;Python+%7C+R" alt="typing"/>
 
 <br/>
 
@@ -17,14 +15,7 @@
 
 ## Sobre mim
 
-```text
-> whoami
-João Cardoso, estatístico formado em formação pela UFRJ.
-Trabalho com análise de dados, modelagem estatística e programação.
-
-> cat interesses.txt
-estatística aplicada | modelagem | séries temporais | análise de dados | automação
-```
+Sou estudante de Estatística na UFRJ. Trabalho com análise de dados, modelagem estatística e programação em Python e R. Tenho interesse em séries temporais, automação de processos e aplicações de estatística em problemas reais.
 
 ---
 
@@ -60,35 +51,10 @@ estatística aplicada | modelagem | séries temporais | análise de dados | auto
 
 ---
 
-## Estatísticas
-
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaocarddoso&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarddoso&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<sub>João Cardoso · Estatística e dados</sub>
 
 </div>
 
----
 
-## Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaocarddoso/joaocarddoso/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaocarddoso/joaocarddoso/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/joaocarddoso/joaocarddoso/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0d1b2a,100:0a0a1a&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
-
-<sub>João Cardoso · Estatística e dados · Sistema online</sub>
-
-</div>
