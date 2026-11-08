@@ -53,6 +53,6 @@ Statistics student at UFRJ (Federal University of Rio de Janeiro). I work with d
 
 <div align="center">
 
-<sub>João Cardoso · Statistics & Data · Rio de Janeiro</sub>
+<sub>João Cardoso · Statistics & Data · Brazil</sub>
 
 </div>
